@@ -3,7 +3,7 @@ background-color: black;
 text-align: center;
 }
 h1 {
-color:rgb(0, 0, 0);
+color:rgb(119, 0, 0);
 }
 p {
     color:rgb(37, 37, 37);
@@ -13,6 +13,6 @@ p {
     width: 900px
 }
 
-#Imagem2
-
-{Width: 400px}
+#Imagem2{
+    Width: 400px
+}
