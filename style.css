@@ -1,5 +1,5 @@
 body{
-background-color: rgb (0,0,0);
+background-color: black;
 text-align: center;
 }
 h1 {
@@ -9,10 +9,10 @@ p {
     color:rgb(37, 37, 37);
 }
 
-#Imagem 1
+#imagem1{
+    width: 900px
+}
 
-{Width: 900px}
-
-#Imagem 2
+#Imagem2
 
 {Width: 400px}
